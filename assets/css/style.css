@@ -95,8 +95,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* setting aside properties */
 
+
+/* setting aside properties */
 
 .benefits {
     margin-bottom: 32px;
@@ -144,18 +145,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Setting the img tag for the main section */
 .content img {
     max-height: 200px;
 
 }
-
+/* Setting the h2 tag for the main section */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-
+/* Setting the footer section */
 
 .footer {
     padding: 30px;
@@ -163,7 +164,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* Setting the h2 footer size */
+.footer h4 {
     font-size: 20px;
 }
