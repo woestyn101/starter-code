@@ -23,6 +23,10 @@ The html code of this page functions as a guide to review
 the html structure of a page as as how to optimize your page
 for search engine optimization.
 
+## Screenshot of website
+
+![Website Screenshot](./assets/images/website_screenshot.jpg)
+
 ## Credits (N/A)
 
 ## License
