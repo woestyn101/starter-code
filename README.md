@@ -11,6 +11,10 @@ During this project I learned:
 - How to insert images in an html page.
 - How to make and html page accessible and easy to understand.
 
+## Link to website
+
+https://woestyn101.github.io/starter-code/
+
 ## Installation (N/A)
 
 ## Usage
